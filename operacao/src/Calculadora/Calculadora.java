@@ -3,7 +3,6 @@ public final class Calculadora {
    * Somar dois valores e retornar o resultado.
    * Este método recebe dois números, soma e retorna o valor
    * @param valor1 o primeiro número
-   *
    * @param valor2 o segundo número
    * @return a soma de valor1 + valor2 */
   public double somar(final double valor1, final double valor2) {
